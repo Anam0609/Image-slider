@@ -1,0 +1,33 @@
+[
+    {
+        "image": "http://localhost:3000/img/image1.jpg",
+        "title": "Slide 1",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam? Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam?"
+    },
+
+    {
+        "image": "http://localhost:3000/img/image2.jpg",
+        "title": "Slide 2",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam? Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam?"
+    },
+    {
+        "image": "http://localhost:3000/img/image3.jpg",
+        "title": "Slide 3",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam? Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam?"
+    },
+    {
+        "image": "http://localhost:3000/img/image4.jpg",
+        "title": "Slide 4",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam? Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam?"
+    },
+    {
+        "image": "http://localhost:3000/img/image5.jpg",
+        "title": "Slide 5",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam? Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam?"
+    },
+    {
+        "image": "http://localhost:3000/img/image6.jpg",
+        "title": "Slide 6",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam? Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam?"
+    }
+]
