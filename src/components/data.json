@@ -1,32 +1,32 @@
 [
     {
-        "image": "http://localhost:3000/img/image1.jpg",
+        "image": "https://cdn.pixabay.com/photo/2016/12/01/18/17/mobile-phone-1875813_960_720.jpg",
         "title": "Slide 1",
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam? Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam?"
     },
 
     {
-        "image": "http://localhost:3000/img/image2.jpg",
+        "image": "https://cdn.pixabay.com/photo/2015/01/20/13/13/ipad-605439_960_720.jpg",
         "title": "Slide 2",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam? Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam?"
     },
     {
-        "image": "http://localhost:3000/img/image3.jpg",
+        "image": "https://cdn.pixabay.com/photo/2018/01/18/07/31/bitcoin-3089728_960_720.jpg",
         "title": "Slide 3",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam? Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam?"
     },
     {
-        "image": "http://localhost:3000/img/image4.jpg",
+        "image": "https://cdn.pixabay.com/photo/2011/12/14/12/11/astronaut-11080_960_720.jpg",
         "title": "Slide 4",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam? Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam?"
     },
     {
-        "image": "http://localhost:3000/img/image5.jpg",
+        "image": "https://cdn.pixabay.com/photo/2015/03/26/10/24/apple-691282_960_720.jpg",
         "title": "Slide 5",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam? Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam?"
     },
     {
-        "image": "http://localhost:3000/img/image6.jpg",
+        "image": "https://cdn.pixabay.com/photo/2016/11/29/06/18/home-office-1867759_960_720.jpg",
         "title": "Slide 6",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam? Labore,non.Quisquam optio eius possimus aliquid aspernatur facere omnis error numquam?"
     }
